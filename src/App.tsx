@@ -152,7 +152,7 @@ const App: Component = () => {
             <i i-carbon-logo-github inline-block></i>
             <span>GitHub</span>
           </a>
-          <a
+          {/* <a
             href='https://www.github.com/andatoshiki/toshiki-temple-block'
             target='_blank'
             color='hover:#eee'
@@ -162,9 +162,9 @@ const App: Component = () => {
             <span md:text-sm>
               Made by 安田俊树
             </span>
-          </a>
+          </a> */}
           <a href='https://www.toshiki.dev' color='hover:#eee'>
-            @andatoshiki
+          Made by 安田俊树 @andatoshiki
           </a>
         </div>
       </footer>
