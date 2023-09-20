@@ -160,7 +160,7 @@ const App: Component = () => {
             items-center
             gap-1>
             <span md:text-sm>
-              Made with love by 安田俊树
+              Made by 安田俊树
             </span>
           </a>
           <a href='https://www.toshiki.dev' color='hover:#eee'>
