@@ -163,7 +163,7 @@ const App: Component = () => {
               Made by 安田俊树
             </span>
           </a> */}
-          <a href='https://www.toshiki.dev' color='hover:#eee'>
+          <a text-sm href='https://www.toshiki.dev' color='hover:#eee'>
           Made by 安田俊树 @andatoshiki
           </a>
         </div>
